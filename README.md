@@ -1,5 +1,5 @@
 <h1 align="center">Olá, meu nome é Filipe Andrade</h1>
-<h3 align="center">Sou um estudante Full-Stack.</h3>
+<h3 align="center">Sou um estudante Full Stack.</h3>
 
 - 📖 Atualmente estou estudando: **Java, Database, SQL Server**
 
@@ -8,6 +8,7 @@
 <h3 align="left">Redes Sociais:</h3>
 <p align="left">
 <a href="https://instagram.com/filipe_yay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="filipe_yay" height="30" width="40" /></a>
+<a href="https://www.threads.net/@filipe_yay" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/threads-app-icon.png" alt="filipe_yay" height="35" width="35"><a>
 </p>
 
 <h3 align="left">Linguagens e Ferramentas mais usadas:</h3>
