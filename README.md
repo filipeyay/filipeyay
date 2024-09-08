@@ -3,7 +3,6 @@
 
 - 📚 Atualmente estou estudando **Java, Banco de Dados, SQL Server.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
