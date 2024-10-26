@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 📋 About Me:
 
 👾 Hey! My name is Filipe, also known as Nikdr4!<br>📚 I’m currently learning React Native.<br>🎮 I’m currently playing Starcraft Remastered.<br>💡 Fun fact: Starcraft was the first and only video game to be taken to space! (I really like Starcraft... Sorry).
 
