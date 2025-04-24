@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 📋 About Me:
 👾 Hey! My name is Filipe.<br>📚 I’m currently learning React Native.<br>🎮 I’m currently playing Starsector.<br>💡 Fun fact: Starcraft was the first and only video game to be taken to space!<br>🌲[My Linktree](https://filipeyaylinktree.vercel.app/)
 
 
