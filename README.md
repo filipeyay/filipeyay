@@ -1,4 +1,4 @@
-# Welcome 🖖<br><br>👾 Hey! My name is Filipe.<br><br>🌲[My Linktree](https://filipeyay-mylinktree.onrender.com/)
+# Welcome 🖖<br><br>Hey! My name is Filipe 👾<br><br>🌲[My Linktree](https://filipeyay-mylinktree.onrender.com/)
 
 
 # 💻 Tech Stack:
